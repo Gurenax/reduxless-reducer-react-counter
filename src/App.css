@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+div.counter h1 {
+  font-weight: bold;
+  font-size:72px;
+}
+
+div.counter button {
+  height: 70px;
+  width: 70px;
+  margin: 5px;
+}
